@@ -1,0 +1,29 @@
+﻿Build started 4/10/2012 7:40:16 PM.
+Project "C:\Users\Jim\Documents\My Dropbox\EC327\HW4\draw\draw\draw.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Touching "Debug\draw.unsuccessfulbuild".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\draw.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+  stdafx.cpp
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\draw.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt ..\..\hw4_files\drawCode\AssemblyInfo.cpp ..\..\hw4_files\drawCode\draw.cpp ..\..\hw4_files\drawCode\El.cpp ..\..\hw4_files\drawCode\line.cpp ..\..\hw4_files\drawCode\rect.cpp ..\..\hw4_files\drawCode\stdafx.cpp AssemblyInfo.cpp draw.cpp /clr:nostdlib 
+  AssemblyInfo.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\hw4_files\drawCode\AssemblyInfo.cpp': No such file or directory
+  draw.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\hw4_files\drawCode\draw.cpp': No such file or directory
+  El.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\hw4_files\drawCode\El.cpp': No such file or directory
+  line.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\hw4_files\drawCode\line.cpp': No such file or directory
+  rect.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\hw4_files\drawCode\rect.cpp': No such file or directory
+  stdafx.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\hw4_files\drawCode\stdafx.cpp': No such file or directory
+  AssemblyInfo.cpp
+  draw.cpp
+c:\users\jim\documents\my dropbox\ec327\hw4\draw\draw\Form1.h(3): fatal error C1083: Cannot open include file: 'shape.h': No such file or directory
+  Generating Code...
+Done Building Project "C:\Users\Jim\Documents\My Dropbox\EC327\HW4\draw\draw\draw.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:40.73
